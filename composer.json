@@ -1,0 +1,17 @@
+{
+    "name": "zarou/product-managment",
+    "autoload": {
+        "psr-4": {
+            "Zarou\\ProductManagment\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "FARAJI",
+            "email": "73851221+faraji-zarouali@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "smarty/smarty": "^5.5"
+    }
+}
